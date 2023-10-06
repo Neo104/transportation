@@ -9,7 +9,7 @@ import { CarModule } from './car/car.module';
       type: 'postgres',
       host: 'localhost',
       port: 5432,
-      username: 'user100',
+      username: 'Neo104',
       password: '',
       database: 'transportation',
       entities: [Cars],
